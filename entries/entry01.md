@@ -1,4 +1,4 @@
-## Entry 01 - Intro: Entering World of Java
+## Entry 01 - Intro: Entering the World of Java
 ---
 ### So, you ask me **_why_** Java?
 
