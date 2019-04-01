@@ -19,18 +19,18 @@ According to [Oracle](https://www.java.com/en/download/faq/whatis_java.xml), the
 
 ---
 
-### Project Idea
+### Project Ideas
 
-Mr. Mueller told us to think of something we want to do before we chose our topic. Okay, let's be honest, I didn't know what to do at all! When he was talking to Xiurong, Jennifer, and Travis in the class about their project idea, all I hope is that he is not coming for me afterward! Anyway, I spent some time thinking about what I want to do and if it can be achieved by Java. I know for the fact that I want to do a game, either original or remake. Some ideas that I had were
+My software class Mr. Mueller told us to think of something we want to do before we chose our topic. Okay, let's be honest, I didn't know what to do at all! When he was talking to Xiurong, Jennifer, and Travis in the class about their project idea, all I hope is that he is not coming for me afterward! Anyway, I spent some time thinking about what I want to do and if it can be achieved by Java. I know for the fact that I want to do a game, either original or remake. Some ideas that I had were
 + Some basic Java game (Tetris, Pacman)
 + Dota 2 Autochess (Since they are so popular now compared to the "real" Dota 2 TGC game a.k.a Artifact)
-+ Pokemon (Sherzod claimed that he never played it before, maybe just remake one so he can have some childhood experiences)
++ Pokémon (My classmate Sherzod claimed that he never played it before, maybe just remake one so he can have some childhood experiences)
 + Telefang (A game that is similar to Pokemon, but it never become popular, but that's my favorite game in my childhood)
 
 I know for the fact that they can all be achieved by Java, it's a matter of time. While I continue to explore Java, I will think about how to make an MVP, and also other possible ideas.
 
 --- 
-### Learning and processing
+### Learning and Processing
 
 I started with just googling lesson about Java, watched some YouTube video. But I realized that they are not the best option for me because 1) some of the lessons is outdated because Java updated quite frequently 2) reading bunch of code documentation is just not the best way for me to learn something. Therefore, I came across Udemy, and use a Java course taught by Tim Buchalka. I used IntelliJ to do all my Java coding as suggested by Tim. The first week is all about learning the basic, and a lot of the syntax looks very familiar, and below are the notes regarding syntax I organized.
 
@@ -68,23 +68,23 @@ Need call method inside. I didn't quite understand what it means because I did d
 ```java
 public static void main(String[] args) {call method here}
 ```
-So I googled what exactly is this, the information I found was quite confusing, but I understand that "this is the name of java main method. It’s fixed and when we start a java program, it looks for the main method."
+So I googled what exactly is this, the information I found was quite confusing, but I understand that "this is the name of java main method. It’s fixed and when we start a java program, it looks for the main method." 
 
 --- 
 ### Takeaway
-1. Start things early! Because I was aware that we will have an independent study this year, I planned ahead of what I want to study first, so I can just jump right into it when the unit started.
+1. Start things **early**! Because I was aware that we will have an independent study this year, I planned ahead of what I want to study first, so I can just jump right into it when the unit started.
 2. It's good to have an idea in mind before you start anything, but if you really can't think about what you want to do, just start something. You can always explore before you fully committed to it.
-3. A curriculum designed by professional is the best way for me to learn. It might not be the best approach for others, but that's the best for me. So, just do whatever you think is the best instead of others telling you what is the best
+3. A curriculum designed by professional is the best way for me to learn. It might not be the best approach for others, but that's the best for me. So, just do whatever you think is the best instead of others telling you what is the best.
 
 ---
-### Other Java syntax
+### Other Java Syntax
 
 #### 8 (Primitive datatypes) + 1 (String class)
 
 |Datatype|Description|Syntax|What is This?|
 |:---|:----:|:----:|:----:|
 |1. integer|Primitive datatype, default non-decimal number type, a width of 32. Has a min. and max of ± 2.147 million |`int myIntNumber = 8;`|Assigning variable myIntNumber to 8|
-|2. byte|Primitive datatype, non-decimal number, a width of 8. Has a min. of -128 to a max. of 127|`int mybyteNumber = 120;`|Assigning variable myByteNumber to 120|
+|2. byte|Primitive datatype, non-decimal number, a width of 8. Has a min. of -128 to a max. of 127|`int myByteNumber = 120;`|Assigning variable myByteNumber to 120|
 |3. short|Primitive datatype, non-decimal number, a width of 16. Has a min. of -32768 to a max. of 32767|`int myShortNumber = 32700;`|Assigning variable myShortNumber to 32700|
 |4. long|Primitive datatype, non-decimal number, a width of 64. Has a min. of -2^31 to a max. of 2^63|`int myLongNumber = 2_000_000l;`|Assigning variable myLongNumber to 2,000,000 (l indicates it's a long datatype) |
 |5. float|Primitive datatype, decimal number, a width of 32. Single precision (7 places after demical point)|`float myFloatNumber = 2.0f;`|Assigning variable myFloatNumber to 2.0 (f indicates it's a float datatype) |
@@ -110,7 +110,7 @@ So I googled what exactly is this, the information I found was quite confusing, 
 |==| equal to, used for evaluation| 
 |!=| not equal to, used for evaluation| 
 |&&| both condition is true, used for evaluation| 
-|| equal to, used for evaluation| 
+|Two pipes| either or, used for evaluation| 
 |>| grater than, used for evaluation| 
 |<| smaller than, used for evaluation| 
 |>=| grater than or equal to, used for evaluation| 
@@ -175,6 +175,12 @@ The variable created inside the code block will not be accessed outside the code
 ---
 #### Method
 
+``` java
+public static void methodName(paramter) {
+   // body
+}
+```
+
 + Use `public static void` keywords to signal to declare a method 
     + Void = don’t send any value back (do not return)
     + Void can be replaced with different keywords according to what type of data want to be return
@@ -189,6 +195,7 @@ The variable created inside the code block will not be accessed outside the code
 + You can assign variable to a method
 
 
+--- 
 Notes:
 + Src = source
 + Java is case sensitive, cap for Java class
