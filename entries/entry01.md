@@ -2,7 +2,7 @@
 ---
 ### So, you ask me **_why_** Java?
 
-Even before the senior year begins, I spent a lot of time thinking about what to do for my independent study. I'm fairly new to the field of computer science, and there is a countless amount of things that intrigue me. The first thing that came to my mind though, is Java and JavaScript. I have no idea what they are and how are they related, (_apparently, they are totally unrelated besides having a very similar name_) but I just to learn about them. I eventually set down on Java just because I'm totally unfamiliar with it, and I want to see how much I can learn in a completely unknown area.
+As the final project of my software class, I was told to do an independent study on any topic I want. Even before the senior year begins, I spent a lot of time thinking about what to do for my independent study. I'm fairly new to the field of computer science, and there is a countless amount of things that intrigue me. The first thing that came to my mind though, is Java and JavaScript. I have no idea what they are and how are they related, (_apparently, they are totally unrelated besides having a very similar name_) but I just want to learn about them. I eventually set down on Java just because I'm totally unfamiliar with it, and I want to see how much I can learn in a completely unknown area.
 
 ---
 ### But what is Java anyway?
@@ -69,12 +69,6 @@ Need call method inside. I didn't quite understand what it means because I did d
 public static void main(String[] args) {call method here}
 ```
 So I googled what exactly is this, the information I found was quite confusing, but I understand that "this is the name of java main method. It’s fixed and when we start a java program, it looks for the main method." 
-
---- 
-### Takeaway
-1. Start things **early**! Because I was aware that we will have an independent study this year, I planned ahead of what I want to study first, so I can just jump right into it when the unit started.
-2. It's good to have an idea in mind before you start anything, but if you really can't think about what you want to do, just start something. You can always explore before you fully committed to it.
-3. A curriculum designed by professional is the best way for me to learn. It might not be the best approach for others, but that's the best for me. So, just do whatever you think is the best instead of others telling you what is the best.
 
 ---
 ### Other Java Syntax
@@ -217,6 +211,12 @@ Notes:
     - One space and 10 space treat as the same
     - Java delete the extra spaces internally
 + When adding a string to a number  it converts the number into a string
+
+--- 
+### Takeaway
+1. Start things **early**! Because I was aware that we will have an independent study this year, I planned ahead of what I want to study first, so I can just jump right into it when the unit started.
+2. It's good to have an idea in mind before you start anything, but if you really can't think about what you want to do, just start something. You can always explore before you fully committed to it.
+3. A curriculum designed by professional is the best way for me to learn. It might not be the best approach for others, but that's the best for me. So, just do whatever you think is the best instead of others telling you what is the best.
 
 
 
