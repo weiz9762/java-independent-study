@@ -113,7 +113,7 @@ So I googled what exactly is this, the information I found was quite confusing, 
 ---
 #### Print
 ```java 
-System.out.println("Hell, World!"); // java command to print something out
+System.out.println("Hello, World!"); // java command to print something out
 ```
 
 ```java
