@@ -104,7 +104,7 @@ public void eat() { // this is a overriding method in dog class
 
 Since I'm following the online curriculum, it's impossible to learn every Java syntax within these 9 weeks. There is so many more lesson after class, such as composition, encapsulation, and polymorphism, but I decided to skip ahead and come back in the future. It's a tough decision for me to make because I want to know every detail of Java. However, my goal is to create something at the end of the nine-week instead of mastering every single piece of Java syntax, and as a result, I finally start the lesson on JavaFX.
 
-![Welcome to JavaFX!](../first_javafx.gif)
+![Welcome to JavaFX!](first_javafx.gif)
 
 ## What is JavaFX?
 
@@ -143,6 +143,7 @@ In gridpane, you can assign the position of its child elements using column and 
 </GridPane>
 ```
 ![stackpane](../layout/gridpane.gif)
+
 
 --- 
 
