@@ -220,7 +220,7 @@ In borderline, it separates into five sections
     </bottom>
 </BorderPane>
 ```
-![borderpane](../borderpane.gif)
+![borderpane](../layout/borderpane.gif)
 
 --- 
 
