@@ -216,10 +216,10 @@ Following are some examples :chestnut:
 + And more save for the next week!
 
 ### A Small Anecdote
-So I was following the online curriculum on how to add an icon/image inside the button, and the instructor asks me to download a file that contains all the commonly used java icon. However, I didn't want the logo to be one of the commonly used logos (I wouldn't tell you that I was lazy to download the file), so I tried to add a logo from my own computer. What I want to do is the following:
+So I was following the online curriculum on how to add an icon/image inside the button, and the instructor asks me to download a file that contains all the commonly used Java icon. However, I didn't want the logo to be one of the commonly used logos (I wouldn't tell you that I was lazy to download the file), so I tried to add a logo from my own computer. What I want to do is the following:
 ![changelogo](../control/changeicon.gif)
 
-I guess it was not that hard since I see how it works with the example. So I follow the instruction and move the folder inside the project I created. Nope, does not work, I wonder if there is anything to do with the image link. So I browse StackOverflow in hope of finding something useful. Fortunately, I found someone with a similar issue; Unfortunately, no one answers his/her question. I guess the time for Rubber-duck (or rubber-chicken :hatching_chick: because I got it instead of a duck) debugging. 
+I guess it was not that hard since I see how it works with the example. So I follow the instruction and move the folder inside the project I created. Nope, does not work, I wonder if there is anything to do with the image link. So I browse StackOverflow in hope of finding something useful. Fortunately, I found someone with a similar issue; Unfortunately, no one answers his/her question. I guess it's time for Rubber-duck (or rubber-chicken :hatching_chick: because I got it instead of a duck) debugging. 
 So I tried to move the image out the folder, change the name of the image and folder, change the path of the file, give it an online link. None of the above work. Then I remove the file and add it again, but this time, inside the source folder of the project. And Ding-Dong :bell:! Problem Solved!
 
 ### Takeaway
