@@ -17,9 +17,9 @@ I continued with my video lessons. Here is something I heard:
 + Singleton
 
 These are the things I learned from the videos:
-+
-+
-+
++ 
++ 
++ 
 
 Okay, I’m exaggerating it, but I don't think the curriculum will be helpful from this point on. So I stopped after a Todo List App which I found somewhat helpful. The todo list app basically utilize all the information provided previously in the course, and this is what it looks like:
 
@@ -143,9 +143,9 @@ public Buttons() {
 [Also, let's heard other's opinion on Swing]:https://www.reddit.com/r/java/comments/49kl35/is_java_swing_dead/
 
 References:
-https://grid.cs.gsu.edu/~cfrederick/csc4380/slides/The_Java_Swing_tutorial.pdf
-https://stackoverflow.com/questions/13212431/jpanel-vs-jframe-in-java
-https://docs.oracle.com/javase/tutorial/uiswing/events/actionlistener.html
++ https://grid.cs.gsu.edu/~cfrederick/csc4380/slides/The_Java_Swing_tutorial.pdf
++ https://stackoverflow.com/questions/13212431/jpanel-vs-jframe-in-java
++ https://docs.oracle.com/javase/tutorial/uiswing/events/actionlistener.html
 
 --- 
 
