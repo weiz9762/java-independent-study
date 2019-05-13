@@ -8,7 +8,7 @@
 + [Entry 3: Plans Always Fall Behind Changes: Some Superficial Knowledge of Java Class](entries/entry03.md)
 + [Entry 4: Time to Move On From the Basics](entries/entry04.md)
 + [Entry 5: All Roads Lead to Rome](entries/entry05.md)
-+ [Entry 6: Left or Right, Stop or Continue?]
++ [Entry 6: Left or Right, Stop or Continue?] (entries/entry06.md)
 
 
 <br>
