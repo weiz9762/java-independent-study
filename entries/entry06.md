@@ -180,6 +180,8 @@ https://gamedev.stackexchange.com/questions/135589/basic-libgdx-game-wont-run
 https://libgdx.badlogicgames.com/ci/nightlies/docs/api/com/badlogic/gdx/graphics/Texture.html 
 
 And kudos to me, I made it before the deadline!! :confetti_ball:
+Finally, a snick peek of next week!
+![final](../start/final.gif)
 
 ---
 
