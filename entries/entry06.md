@@ -1,5 +1,5 @@
 
-## Entry 5: Continues...
+## Entry 5: Continue? Yes, Continue. :collision:
 ---
 
 ### A 2 A.M. Blog
