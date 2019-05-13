@@ -2,7 +2,7 @@
 ## Entry 5: Continue? Yes, Continue. :collision:
 ---
 
-### A 2 A.M. Blog
+### A 2 A.M. Blog :sleeping:
 
 Hi guys, it's 2:18 AM when I was drafting this blog. Why? I guess because I'm paying the debt for not working hard this week, _*or*_ all the previous weeks. Time goes really fast, and when I was filling out my form regarding which project I want to present in the expo, I literally have *NOTHING* done. As a result, MVP (Minimum Value Product) is my top first priority, or perhaps, a MMMMMVP. This is going to be one of my toughest days, but I also gain a lot from this experience.
 
@@ -57,7 +57,7 @@ Did you find it? It's on line #5, `getSelectedItems();` versus `getSelectedItems
 
 ---
 
-### Did you said Swing? I thought it’s Dead Already
+### Did you said Swing? I thought it’s Dead Already :jack_o_lantern:
 I decided to learn about Swing since that's what Java people in my class is learning. Without doing much of research, I jumped right into it. This time, I learn with documentation instead of videos. After a few days of learning, I search up Swing in the Chinese search engine in the hope to find some resource in my first language. And sadly, all I got from it is to move on from  Swing and start learning JavaFX, because "Swing is dead." I don't know if it's really the case, but I just decided to go back to JavaFX since that's what I have been learning so far. But anyway, here are some of the note I took for Swing.
 
 ```java
