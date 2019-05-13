@@ -17,10 +17,10 @@ I continued with my video lessons. Here is something I heard:
 + Singleton
 
 These are the things I learned from the videos:
-+ 
-+ 
-+ 
-
++ What       
++ Is     
++ That
+        
 Okay, I’m exaggerating it, but I don't think the curriculum will be helpful from this point on. So I stopped after a Todo List App which I found somewhat helpful. The todo list app basically utilize all the information provided previously in the course, and this is what it looks like:
 
 ![todo](../start/ToDoList.gif)
