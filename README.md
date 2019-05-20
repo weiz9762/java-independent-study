@@ -9,6 +9,7 @@
 + [Entry 4: Time to Move On From the Basics](entries/entry04.md)
 + [Entry 5: All Roads Lead to Rome](entries/entry05.md)
 + [Entry 6: Continue? Yes, Continue.](entries/entry06.md)
++ [Entry 7: Teamwork Builds Dreamwork.](entries/entry06.md)
 
 
 <br>
