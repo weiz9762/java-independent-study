@@ -1,5 +1,5 @@
 
-## Entry 7: Teamwork Builds Dreamwork. :100:
+## Entry 7: Teamwork Builds Dreamwork :100:
 ---
 
 ### Work, work, work, work
