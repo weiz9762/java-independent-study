@@ -6,7 +6,6 @@
 
 This is already the eighth week of the independent study, I'm proud of myself for making this far. Throughout this process, I spent a lot of time learning about the thing that I would never image myself learn before joining this class. On the other hand, it was the most stressful eight weeks of my life. I sometimes panic about finishing this blog because I do not know if I show enough learning for the week, especially this blog often takes more time than I would expect and wanted. After the SEP expo, I finally felt relief. I'm glad of what I made, but I think it is also time for me to take a small break, to sleep regularly. Anyways, I put down anything I learned this week in this entry, and hope you can find this helpful. 
 
-
 ---
 
 ### MVP and Expo Day
@@ -63,12 +62,15 @@ frames.clear();
 ```
 ---
 
-### My Team
-Meanwhile, my team is trying to link every piece together as the deadline approaches. Johnson talked us through on what he wants on the home screen, and Jeffery and I give him some suggestion on the style and layout of the home page. More importantly, however, we ask him to link the page with the game so we wouldn't present it in separate pieces. Additionally, Jeffery and I made two copy of the files and working on a different perspective of the game. Time for the final push!
 ### Control
 There was a big problem with our game last week, which is that the character will go out of the screen. So Jeffery and I divided the work. While I was fixing the problem with animation, he moved on to add boundary of our game. Although combining our code was a major issue, we manage to make it work. Teamwork!
 
 ![edge](../product/edge.gif)
+---
+
+### My Team
+Meanwhile, my team is trying to link every piece together as the deadline approaches. Johnson talked us through on what he wants on the home screen, and Jeffery and I give him some suggestion on the style and layout of the home page. More importantly, however, we ask him to link the page with the game so we wouldn't present it in separate pieces. Additionally, Jeffery and I made two copy of the files and working on a different perspective of the game. Time for the final push!
+
 ---
 
 ### Changing the Path?
