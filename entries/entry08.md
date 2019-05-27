@@ -66,6 +66,7 @@ frames.clear();
 There was a big problem with our game last week, which is that the character will go out of the screen. So Jeffery and I divided the work. While I was fixing the problem with animation, he moved on to add boundary of our game. Although combining our code was a major issue, we manage to make it work. Teamwork!
 
 ![edge](../product/edge.gif)
+
 ---
 
 ### My Team
