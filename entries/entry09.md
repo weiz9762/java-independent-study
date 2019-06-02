@@ -23,10 +23,6 @@ There are many reasons causes building a bomb difficult. First of all, because I
 
 So the problem with the bomb now is that it only has an appearance. In other words, it does not explode (animation), nor does it break the block nearby. In addition, you can only have one bomb exist at the time which I consider as insufficient.
 
-![fly1](../product/fly1.png)
-![fly2](../product/fly2.png)
-![fly3](../product/fly3.png)
-
 ---
 ### Animation
 I tried to do the animation of the bomb but failed to achieve it. Below are some of the texture I created for the bomb animation.
@@ -76,8 +72,6 @@ My teammates had successfully combined the home screen with the game screen, as 
 
 ---
 
-
----
 ### Takeaway
 1. No good idea can be achieved overnight. You can always polish your project, and even you face difficulty, do not give up. In addition, never stop learning, even if you are finishing an assignment for a class, you should continue to explore on your own.
 
