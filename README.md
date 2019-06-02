@@ -11,6 +11,7 @@
 + [Entry 6: Continue? Yes, Continue.](entries/entry06.md)
 + [Entry 7: Teamwork Builds Dreamwork.](entries/entry07.md)
 + [Entry 8: Learn Well, Work Well, Sleep Well](entries/entry08.md)
++ [Entry 9: Last Minute Struggle](entries/entry09.md)
 
 
 <br>
